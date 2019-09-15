@@ -1,0 +1,9 @@
+[submodule "CharityHat-Server"]
+	path = CharityHat-Server
+	url = git@github.com:tommyliu9/CharityHat-Server.git
+[submodule "givr"]
+	path = givr
+	url = git@github.com:GauravRanganath/givr.git
+[submodule "givr-react"]
+	path = givr-react
+	url = git@github.com:GauravS99/givr-react.git
